@@ -14,7 +14,7 @@ const customCorsOptions = {
   origin: allowedOrigins,
 };
 
-server.use(cors(customCorsOptions));
+server.use(cors());
 server.use(middlewares);
 server.use(router);
 
