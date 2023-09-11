@@ -534,13 +534,7 @@
       "link": "https://youtube.com"
     }
   ],
-  "pedoman": [
-    {
-      "id": 1,
-      "deskripsi": "Pedoman",
-      "link": "https://youtube.com"
-    }
-  ],
+  "pedoman": [],
   "renstra": [
     {
       "id": 1,
@@ -557,9 +551,19 @@
   ],
   "penelitian_lppm": [
     {
-      "id": 1,
-      "deskripsi": "Penelitian",
-      "link": "https://youtube.com"
+      "deskripsi": "scassdc",
+      "link": "https://sdcsdcs",
+      "id": 1
+    },
+    {
+      "deskripsi": "scscsdcsc",
+      "link": "https://sdcscsdcdscsdc",
+      "id": 2
+    },
+    {
+      "deskripsi": "tama",
+      "link": "https://dfsdfsdfs",
+      "id": 3
     }
   ],
   "pengabdian_lppm": [
@@ -567,11 +571,6 @@
       "id": 1,
       "deskripsi": "Pengabdian",
       "link": "https://youtube.com"
-    },
-    {
-      "deskripsi": "sjnfsdfsdf",
-      "link": "https://jkdnksndfs",
-      "id": 2
     }
   ],
   "jurnal_lppm": [
