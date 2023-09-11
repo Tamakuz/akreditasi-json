@@ -1,20 +1,22 @@
 import jsonServer from "json-server";
 import cors from "cors";
+import datas from "./datas.json" assert { type: "json" };
 
 const server = jsonServer.create();
-const router = jsonServer.router("datas.json");
+const router = jsonServer.router(datas);
 const middlewares = jsonServer.defaults();
 const port = 5000;
 
 const allowedOrigins = [
   "http://localhost:5173",
+  "admin-akreditasi.vercel.app"
 ];
 
 const customCorsOptions = {
   origin: allowedOrigins,
 };
 
-server.use(cors()); // Add the CORS middleware with custom options
+server.use(cors(allowedOrigins)); // Add the CORS middleware with custom options
 server.use(middlewares);
 server.use(router);
 
