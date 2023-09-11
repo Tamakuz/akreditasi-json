@@ -16,7 +16,7 @@ const customCorsOptions = {
   origin: allowedOrigins,
 };
 
-server.use(cors(allowedOrigins)); // Add the CORS middleware with custom options
+server.use(cors(customCorsOptions)); // Add the CORS middleware with custom options
 server.use(middlewares);
 server.use(router);
 
