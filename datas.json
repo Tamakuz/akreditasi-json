@@ -1,68 +1,759 @@
 {
+  "visitors": [
+    {
+      "cookie": "accepted",
+      "id": 1
+    },
+    {
+      "cookie": "accepted",
+      "id": 2
+    },
+    {
+      "cookie": "accepted",
+      "id": 3
+    },
+    {
+      "cookie": "accepted",
+      "id": 4
+    },
+    {
+      "cookie": "accepted",
+      "id": 5
+    },
+    {
+      "cookie": "accepted",
+      "id": 6
+    },
+    {
+      "cookie": "accepted",
+      "id": 7
+    },
+    {
+      "cookie": "accepted",
+      "id": 8
+    },
+    {
+      "cookie": "accepted",
+      "id": 9
+    },
+    {
+      "cookie": "accepted",
+      "id": 10
+    },
+    {
+      "cookie": "accepted",
+      "id": 11
+    },
+    {
+      "cookie": "accepted",
+      "id": 12
+    },
+    {
+      "cookie": "accepted",
+      "id": 13
+    },
+    {
+      "cookie": "accepted",
+      "id": 14
+    },
+    {
+      "cookie": "accepted",
+      "id": 15
+    },
+    {
+      "cookie": "accepted",
+      "id": 16
+    },
+    {
+      "cookie": "accepted",
+      "id": 17
+    },
+    {
+      "cookie": "accepted",
+      "id": 18
+    },
+    {
+      "cookie": "accepted",
+      "id": 19
+    },
+    {
+      "cookie": "accepted",
+      "id": 20
+    },
+    {
+      "cookie": "accepted",
+      "id": 21
+    },
+    {
+      "cookie": "accepted",
+      "id": 22
+    },
+    {
+      "cookie": "accepted",
+      "id": 23
+    }
+  ],
   "bpk": [
     {
-      "id": 1,
-      "deskripsi": "Buku BPK",
-      "link": "https://youtube.com"
+      "deskripsi": "trouble shoting mi",
+      "link": "https://drive.google.com/file/d/17zIY4Sm0dUaUTTNR1d3snlle2tlPERvD/view?usp=sharing",
+      "id": 1
+    },
+    {
+      "deskripsi": "system operasi II",
+      "link": "https://drive.google.com/file/d/1GtPhWwvGXzznsODIVepmzkOnlal_rczD/view?usp=sharing",
+      "id": 2
+    },
+    {
+      "deskripsi": "Rekayasa Perangkat Lunak",
+      "link": "https://drive.google.com/file/d/1CvMAKfNET9zw7KL2QSrj3gkVFyKE9R0c/view?usp=sharing",
+      "id": 3
+    },
+    {
+      "deskripsi": "PENGANTAR TEKNOLOGI INFORMASI",
+      "link": "https://drive.google.com/file/d/1lS2pd62vi_gRoPPfkG5ThIsXITwVuqXj/view?usp=sharing",
+      "id": 4
+    },
+    {
+      "deskripsi": "MI5_Pemrograman Database 2",
+      "link": "https://drive.google.com/file/d/1HqbcsyyTw2F3ay_0azVUJqeV1SoBbsi4/view?usp=sharing",
+      "id": 5
+    },
+    {
+      "deskripsi": "MI5_BPK_PemrogDatabase2",
+      "link": "https://drive.google.com/file/d/1_5oC0ZKp25maK7nT5mU_sFflXhuQItrT/view?usp=sharing",
+      "id": 6
+    },
+    {
+      "deskripsi": "MI3_Pemrograman Terstruktur 2",
+      "link": "https://drive.google.com/file/d/1nrMxI0po5vilbBCpsybcR38ElHB4XzDk/view?usp=sharing",
+      "id": 7
+    },
+    {
+      "deskripsi": "MI3_BPK_PT2",
+      "link": "https://drive.google.com/file/d/1z2_UMHcFiyQ71zhwyd5OLPANt97Eds_T/view?usp=sharing",
+      "id": 8
+    },
+    {
+      "deskripsi": "MI1_BPK_KompInternet",
+      "link": "https://drive.google.com/file/d/1h2x-yS80LOrkcdhGtvGHS9YeIv9slntb/view?usp=sharing",
+      "id": 9
+    },
+    {
+      "deskripsi": "MI_strukturdata22",
+      "link": "https://drive.google.com/file/d/1117_Pcp1HsWwQ6zeggGwS6pi7gitp65-/view?usp=sharing",
+      "id": 10
+    },
+    {
+      "deskripsi": "MI_PemrogramanTerstruktur_smt2",
+      "link": "https://drive.google.com/file/d/1fbvJSJntPYWw4e9_0Mo66TYF3eqZhR_1/view?usp=sharing",
+      "id": 11
+    },
+    {
+      "deskripsi": "MI_PemDatabase1_22",
+      "link": "https://drive.google.com/file/d/1hW5FylcjqVOhU7iVJbHYq_uusPEVpIqZ/view?usp=sharing",
+      "id": 12
+    },
+    {
+      "deskripsi": "BPKMI_PemDatabase1_smt4",
+      "link": "https://drive.google.com/file/d/1HyNIcJjMmA97sf-2JrYF1jMCT4QaJohK/view?usp=sharing",
+      "id": 13
+    },
+    {
+      "deskripsi": "BPK_SPK_Kelas Reguler",
+      "link": "https://drive.google.com/file/d/1SITdj8OaHxpHSofYNHWW5qX8DWLw644e/view?usp=sharing",
+      "id": 14
+    },
+    {
+      "deskripsi": "BPK_RPL _Kelas Reguler",
+      "link": "https://drive.google.com/file/d/1r3zO3p1H66llcx1Qg-l_38Cq4YdhQll1/view?usp=sharing",
+      "id": 15
+    },
+    {
+      "deskripsi": "BPK_Pemrograman_Visual_1_Kelas_Reguler",
+      "link": "https://drive.google.com/file/d/1aROTmpYVZ8cAgxs_bQQQewmx6F5zxUq8/view?usp=sharing",
+      "id": 16
+    },
+    {
+      "deskripsi": "BPK_Pemrograman_Database_1_Kelas_Reguler",
+      "link": "https://drive.google.com/file/d/1zzWgAIMNGKp_CG-DMcNQV5FOK5BYEfim/view?usp=sharing",
+      "id": 17
+    },
+    {
+      "deskripsi": "BPK_Komputer_Grafis_Kelas_Sore_TA2223",
+      "link": "https://drive.google.com/file/d/1JqA5TaVFsN7MMt2xRM-BJlv-1P9WIni6/view?usp=sharing",
+      "id": 18
+    },
+    {
+      "deskripsi": "BPK_Komputer_Grafis_Kelas_Reguler_TA2223",
+      "link": "https://drive.google.com/file/d/1rVoxtLBIwDTnwGEOIT50XuhQ-AIjURp5/view?usp=sharing",
+      "id": 19
+    },
+    {
+      "deskripsi": "BPK_Interkasi_Manusia_dan_Komputer_Kelas_Reguler",
+      "link": "https://drive.google.com/file/d/1KfEcIK7JK9iBQOhFjQmLZg6Z4UjdI_vm/view?usp=sharing",
+      "id": 20
+    },
+    {
+      "deskripsi": "BPK_Cloud_Computing_dan_Security_Data_TA2223",
+      "link": "https://drive.google.com/file/d/1Ef7TO-WLq3lgXAHGvKVKHIjRGL_YU8wO/view?usp=sharing",
+      "id": 21
+    },
+    {
+      "deskripsi": "BPK_Cloud_Computing_dan_Security_Data_Kelas_Reguler",
+      "link": "https://drive.google.com/file/d/15kHrdqxF3gBwqh3gLeXdqADpGCZ7040w/view?usp=sharing",
+      "id": 22
+    },
+    {
+      "deskripsi": "BPK_Basis_Data_2_Kelas_Reguler",
+      "link": "https://drive.google.com/file/d/1xDv1Bzl5gGvnGy9sqbntbxWi8Qh6dL-l/view?usp=sharing",
+      "id": 23
+    },
+    {
+      "deskripsi": "BPK SISTEM BERKAS MI MALAM",
+      "link": "https://drive.google.com/file/d/17evpOGIQmhP_PNJxdTNOon9ZjzBdY9Xt/view?usp=sharing",
+      "id": 24
+    },
+    {
+      "deskripsi": "BPK SIM I - Kelas Reguler",
+      "link": "https://drive.google.com/file/d/1mQFI1G_VzIIkfVP4kFLYbWdMyZ4cuXIN/view?usp=sharing",
+      "id": 25
+    },
+    {
+      "deskripsi": "bpk LOGIKA ALGORITMA 2 ",
+      "link": "https://drive.google.com/file/d/19tBji8Fususnstqqpr_hJfNCvuVsYRB0/view?usp=sharing",
+      "id": 26
+    },
+    {
+      "deskripsi": "BPK - Basis Data 1 - Kelas Pagi",
+      "link": "https://drive.google.com/file/d/1qQTjSwgVO5JCUSs6Y3PtW05OCKRVLfj2/view?usp=sharing",
+      "id": 27
+    },
+    {
+      "deskripsi": "BPK Teori LogAlPro 2021",
+      "link": "https://drive.google.com/file/d/1bFY_tkeaVMTSqwwEFJgZBU1g9BFF762m/view?usp=sharing",
+      "id": 28
+    },
+    {
+      "deskripsi": "BPK Prkt LOGALPRO 2021",
+      "link": "https://drive.google.com/file/d/1r8GDIIa1rNNAEH_8gLeFxJE3spVmHL4O/view?usp=sharing",
+      "id": 29
+    },
+    {
+      "deskripsi": "BPK PMP 2022",
+      "link": "https://drive.google.com/file/d/1rTvm9ovH174KzRP4gn09PWAUtEu1D5hi/view?usp=sharing",
+      "id": 30
+    },
+    {
+      "deskripsi": "BPK Pemrograman Visual 1",
+      "link": "https://drive.google.com/file/d/17RzoxRLNLHw9IR0W6dk5C2aq6wnsaqVL/view?usp=sharing",
+      "id": 31
+    },
+    {
+      "deskripsi": "BPK Pemg Visual 2 - 2021",
+      "link": "https://drive.google.com/file/d/1RgRUrrvXhgSWH5YbrmYKwbIQgfmDEvQa/view?usp=sharing",
+      "id": 32
+    },
+    {
+      "deskripsi": "bpk LOGIKA ALGORITMA 2 ",
+      "link": "https://drive.google.com/file/d/19tBji8Fususnstqqpr_hJfNCvuVsYRB0/view?usp=sharing",
+      "id": 33
+    },
+    {
+      "deskripsi": "BPK LoGalPro 2 - 2020",
+      "link": "https://drive.google.com/file/d/1WBywPuAV3dVHiawxKQOARtet7e5MktGZ/view?usp=sharing",
+      "id": 34
+    },
+    {
+      "deskripsi": "BPK KomDatJarKom-MI-2020",
+      "link": "https://drive.google.com/file/d/1ZLB04aC_h6E-JmCrl_o2SKJz8R1Qq9B4/view?usp=sharing",
+      "id": 35
+    },
+    {
+      "deskripsi": "BPK Game Technology 2021",
+      "link": "https://drive.google.com/file/d/19qo-ihyH4VVd_n47g-g6sP629JBEvQbI/view?usp=sharing",
+      "id": 36
+    },
+    {
+      "deskripsi": "BPK -ANSI 2021",
+      "link": "https://drive.google.com/file/d/1rCzvNBpx4sCJYALatLLj2Rc8ElQNH7Ml/view?usp=sharing",
+      "id": 37
+    },
+    {
+      "deskripsi": "BPK - Basis Data 1 - Kelas Pagi",
+      "link": "https://drive.google.com/file/d/1qQTjSwgVO5JCUSs6Y3PtW05OCKRVLfj2/view?usp=sharing",
+      "id": 38
     }
   ],
   "rps": [
     {
-      "id": 1,
-      "deskripsi": "Buku RPS",
-      "link": "https://youtube.com"
+      "deskripsi": "Siti Achaliyah, RPS AGAMA ISLAM (MI) - siti achaliyah",
+      "link": "https://drive.google.com/file/d/1fpLSZ1germjqmK4pSFz00pqgMXoJtVQM/view?usp=sharing",
+      "id": 3
+    },
+    {
+      "deskripsi": "RPS-Prk Logika Algoritma 2",
+      "link": "https://docs.google.com/document/d/1ouGaJmUEE9OVr6vSh0u7rUn-gscT3jk-/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 4
+    },
+    {
+      "deskripsi": "RPS-Pemrograman-Web rev 1",
+      "link": "https://docs.google.com/document/d/1vE4NJXlJJQAH7jxyZc6IcuXPZPjoyvih/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 5
+    },
+    {
+      "deskripsi": "RPS_Metodologi terbaru",
+      "link": "https://docs.google.com/document/d/1GkpwBrvU34G4E1s1MG6AnxIGJe30DXlg/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 6
+    },
+    {
+      "deskripsi": "RPS_Etika Profesi",
+      "link": "https://docs.google.com/document/d/1rUggbKpFHUms6T5BDNaih1zPzHB0Hiyu/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 7
+    },
+    {
+      "deskripsi": "RPS_Cloud_Computing_Security_Data - Didik Warasto",
+      "link": "https://drive.google.com/file/d/1OHafznVWI0YQZUp3DK6VvlluU-PN_WJ0/view?usp=sharing",
+      "id": 8
+    },
+    {
+      "deskripsi": "RPS trouble shooting",
+      "link": "https://docs.google.com/document/d/1OwOjJCilj7_DEciIeTWAqJq9npZ_5DhU/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 9
+    },
+    {
+      "deskripsi": "RPS terbaru_MatTer - Nuning Melianingsih",
+      "link": "https://docs.google.com/document/d/1_EcvvDsUITkXkNPzdwtjhwpPlg0HRDZ1/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 10
+    },
+    {
+      "deskripsi": "RPS struktur data 2023 - Taman Ginting",
+      "link": "https://drive.google.com/file/d/1A_IGmYv0MYxz_vDH0mJoAxUbIMnVJQZY/view?usp=sharing",
+      "id": 11
+    },
+    {
+      "deskripsi": "RPS SIE",
+      "link": "https://docs.google.com/document/d/1-oDuqQl2n0xh-JzufBeCVvr6U7Of9mSB/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 12
+    },
+    {
+      "deskripsi": "RPS PTI (FORMAT BARU)",
+      "link": "https://docs.google.com/document/d/1tNHCTXriDCBTMlEMrtF6XKAxDvTOq8ua/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 13
+    },
+    {
+      "deskripsi": "RPS PPPN",
+      "link": "https://docs.google.com/document/d/15gRTHnoiiIV_CQNlplGjXYiU2F9V3rdt/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 14
+    },
+    {
+      "deskripsi": "RPS Pemrograman Visual 1 - 2023 - Harjono",
+      "link": "https://drive.google.com/file/d/1H_F-4AXsSxjT6ekz1TXCcqa0OkLnr66v/view?usp=sharing",
+      "id": 15
+    },
+    {
+      "deskripsi": "RPS Pemrograman Multi Platform - 2023 - Harjono",
+      "link": "https://drive.google.com/file/d/1n_KRtwNCIVPOzcKXGoz6B4wjlfOEd-Tr/view?usp=sharing",
+      "id": 16
+    },
+    {
+      "deskripsi": "rps Pemrograman Database 1 - Taufik Nurhidayat",
+      "link": "https://drive.google.com/file/d/1d-mURYNfuIOtcuNv5w3vO6LXUavn8tas/view?usp=sharing",
+      "id": 17
+    },
+    {
+      "deskripsi": "RPS MI B.inggris 4",
+      "link": "https://docs.google.com/document/d/1smvStheQjByqo6S-wptMI8Gf48q2zIIb/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 18
+    },
+    {
+      "deskripsi": "RPS Logalpro 1 prkt",
+      "link": "https://docs.google.com/document/d/11UtqcJcforZ4E3yFVqdvsyeNL1ESHyHV/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 19
+    },
+    {
+      "deskripsi": "RPS KWU",
+      "link": "https://docs.google.com/document/d/1d19yh4qYvikeSTYIf2wkRU93NzbGBr1q/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 20
+    },
+    {
+      "deskripsi": "RPS Game Technology",
+      "link": "https://docs.google.com/document/d/13MZGGe4XBLraNDLDyMn7DuSRjE7jSr6m/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 21
+    },
+    {
+      "deskripsi": "RPS Cloud Computing dan Security Data",
+      "link": "https://docs.google.com/document/d/1Spb-l3HWiKxfgm2e18dLNirlan0IULj-/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 22
+    },
+    {
+      "deskripsi": "RPS Bhs.Inggris 3 MI",
+      "link": "https://docs.google.com/document/d/1oLn92E-ppYixP40H1UlvVjwA33YnfiLr/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 23
+    },
+    {
+      "deskripsi": "RPS B.INGGRIS 5 MI (FORMAT BARU)",
+      "link": "https://docs.google.com/document/d/1qopUJz1BUbF2C9Ue_ZtpZdrUIJrCKK1A/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 24
+    },
+    {
+      "deskripsi": "RPS B.INDO",
+      "link": "https://docs.google.com/document/d/1TVKWYZWEP9ql9Zb8vVVN4YkBz7AVJ9v6/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 25
+    },
+    {
+      "deskripsi": "RPS AORKOM MI 2023 - izzan julda",
+      "link": "https://drive.google.com/file/d/14NoHkRe4ajVjvePLuqQQqJtKR8bbrXCg/view?usp=sharing",
+      "id": 26
+    },
+    {
+      "deskripsi": "RPS ANPERC_MI_1718",
+      "link": "https://docs.google.com/document/d/11rF3vNI7KAG-O48RahAeLc33cWsUP3t8/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 27
+    },
+    {
+      "deskripsi": "RPS AKT 1",
+      "link": "https://docs.google.com/document/d/15OTEvvvbXdZba5lr60EkW6Y7f39b7JdQ/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 28
+    },
+    {
+      "deskripsi": "RPS - SPK",
+      "link": "https://docs.google.com/document/d/1DJmhHZxfMJUw5idGQC6FNDL61VuMoEfa/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 29
+    },
+    {
+      "deskripsi": "RPS - SIM 1",
+      "link": "https://docs.google.com/document/d/1nqKjeDvaeXRw3wp6SxfX9StlH_iTaM8m/edit?usp=sharing&ouid=108267656983621176202&rtpof=true&sd=true",
+      "id": 30
+    },
+    {
+      "deskripsi": "RPS - REKAYASA PERANGKAT LUNAK",
+      "link": "https://docs.google.com/document/d/1CtoSfTXQZ0QvCnoh6rh_0v5g3DDnKDXg/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 31
+    },
+    {
+      "deskripsi": "RPS - MI_Pemrg Terstruktur 2",
+      "link": "https://drive.google.com/file/d/1MlXC2GQEnsQMN03NIrdKBnMNKj9cdu4j/view?usp=sharing",
+      "id": 32
+    },
+    {
+      "deskripsi": "RPS - MI_Pemrg Terstruktur 1",
+      "link": "https://drive.google.com/file/d/1H2x1GJXmhGisZLj1x9copbowtqhZC15E/view?usp=sharing",
+      "id": 33
+    },
+    {
+      "deskripsi": "RPS - Matematika Diskrit",
+      "link": "https://docs.google.com/document/d/1FcTqdM7Z_oZ0G4HvI89sQpPqqMW3KZAR/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 34
+    },
+    {
+      "deskripsi": "RPS - Komputer Grafis",
+      "link": "https://docs.google.com/document/d/1Vq6W9N9UNUfQ9Sobc-nytJLbZa_BIiWJ/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 35
+    },
+    {
+      "deskripsi": "RPS - Komputer dan Internet - 2023",
+      "link": "https://docs.google.com/document/d/1Fk4jvELKwejzXvKkgyHv5otJ9j7MGxOz/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 36
+    },
+    {
+      "deskripsi": "RPS - IMK",
+      "link": "https://docs.google.com/document/d/1wT0ubqtp5QN3So-mY-c6xC70nSrBxbBL/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 37
+    },
+    {
+      "deskripsi": "RPS - BASIS DATA 2",
+      "link": "https://docs.google.com/document/d/1dyI_vyElkBwvs7t7yeYCZOHmOpY0y919/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 38
+    },
+    {
+      "deskripsi": "RPS - BASIS DATA 1",
+      "link": "https://docs.google.com/document/d/1hSBBai12we2s6HQBabKw74924Ef1CWdA/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 39
+    },
+    {
+      "deskripsi": "Praktek Jaringan Komputer 1 (MI) - RPS - Agus Haryawan",
+      "link": "https://drive.google.com/file/d/19mNW5cRDKY4kggA7y_YBh1dYvETMxncV/view?usp=sharing",
+      "id": 40
+    },
+    {
+      "deskripsi": "ok-RPS Web Technology 21",
+      "link": "https://drive.google.com/file/d/1ymO0LdDc0cHnKGfy0yzrY5GHCVxxpsoX/view?usp=sharing",
+      "id": 41
+    },
+    {
+      "deskripsi": "ok-RPS Pemrograman Multimedia 21",
+      "link": "https://docs.google.com/document/d/1RsHmKeFrt4897_4KYOb_BC-xNkN5Qpyr/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 42
+    },
+    {
+      "deskripsi": "ok-RPS Pemrograman Data Base-2 21",
+      "link": "https://drive.google.com/file/d/1cKOgv1sR4PVh9BsXNBYWNck_7Sujuk-B/view?usp=sharing",
+      "id": 43
+    },
+    {
+      "deskripsi": "ok-RPS Film Dan Animasi 21",
+      "link": "https://drive.google.com/file/d/1n4OzCu7IqqeaQYrzZR1uPiW076m2hlqv/view?usp=sharing",
+      "id": 44
+    },
+    {
+      "deskripsi": "MI5 - RPS - Jaringan Komputer 2",
+      "link": "https://docs.google.com/document/d/1xN0Z4b-7E0x1W6dcGNGF8wDqifArW_yk/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 45
+    },
+    {
+      "deskripsi": "Kontrak, RPS,RPP, SO2 TKOM 2017",
+      "link": "https://docs.google.com/document/d/1vmN1TdJrMLnISb6uMdNUVLQzCA_a2sZC/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 46
+    },
+    {
+      "deskripsi": "Kontrak, RPS,RPP, Komdat JArkom MI 2016",
+      "link": "https://docs.google.com/document/d/1two3CJqr5UgebXFloVPwm2vtGt5B2L6_/edit?usp=sharing&ouid=101478737733239891853&rtpof=true&sd=true",
+      "id": 47
+    },
+    {
+      "deskripsi": "KONTRAK AGAMA MI - Taman Ginting",
+      "link": "https://drive.google.com/file/d/14_v1LY_3DHhaqjHE3CMr0FK1rrxY4MSW/view?usp=sharing",
+      "id": 48
+    },
+    {
+      "deskripsi": "Komputer Akuntansi 2 - Erniyawati Mustaqomah",
+      "link": "https://drive.google.com/file/d/14zgcjpgLg6q_Yh7TdOQHgDJ9zNHZEl_1/view?usp=sharing",
+      "id": 49
+    },
+    {
+      "deskripsi": "BPK BAHASA INGGRIS 2 SEMESTER 2 REV",
+      "link": "https://drive.google.com/file/d/1OSx30a22GsfzZ6VwGzag_Z5rO9H3qLe6/view?usp=sharing",
+      "id": 50
     }
   ],
   "kontrak_kuliah": [
     {
-      "id": 1,
-      "deskripsi": "Buku Kontrak Kuliah",
-      "link": "https://youtube.com"
+      "deskripsi": "SK_Mengajar_Genap_2020_2021",
+      "link": "https://drive.google.com/file/d/1wkSvRH_WjbMv5citraZ5qVjMUblwH4d5/view?usp=sharing",
+      "id": 1
+    },
+    {
+      "deskripsi": "SK_Mengajar_Gasal_TA_22_23_Didik_Warasto",
+      "link": "https://drive.google.com/file/d/1oJYtJ5NXhaJVCNCXeESUcYQylixiUdhP/view?usp=sharing",
+      "id": 2
+    },
+    {
+      "deskripsi": "SK_Mengajar_Gasal_2122_didikw",
+      "link": "https://drive.google.com/file/d/1_3Wk-k0JZwPtJNvkHGZvDSigJubZT6ta/view?usp=sharing",
+      "id": 3
+    },
+    {
+      "deskripsi": "SK_Mengajar_Gasal_2022_didikw",
+      "link": "https://drive.google.com/file/d/1rbAbDoprN0aKwBAhScx-pfVaipo8EcFV/view?usp=sharing",
+      "id": 4
+    },
+    {
+      "deskripsi": "SK_Mengajar_Gasal_2020_2021_didikw",
+      "link": "https://drive.google.com/file/d/1wle9ymxU4wMOj_DZOedGPMOeBR2naw8C/view?usp=sharing",
+      "id": 5
     }
   ],
   "penelitian": [
     {
-      "id": 1,
-      "deskripsi": "Buku Penelitian",
-      "link": "https://youtube.com"
-    }
-  ],
-  "pengabdian": [
+      "deskripsi": "Surat_Tugas_Pengabdian_Masyarakat2_didikw",
+      "link": "https://drive.google.com/file/d/1H035iybuhoYPzpgptymoWPkG7kmxEqUm/view?usp=sharing",
+      "id": 3
+    },
     {
-      "id": 1,
-      "deskripsi": "Buku Pengabdian",
-      "link": "https://youtube.com"
-    }
-  ],
-  "sertifikat": [
+      "deskripsi": "Surat_Tugas_Pengabdian_Masyarakat_didikw",
+      "link": "https://drive.google.com/file/d/1_z_8ZNaVmB4CqAEnbyypbwaL2HQzVPxs/view?usp=sharing",
+      "id": 4
+    },
     {
-      "id": 1,
-      "deskripsi": "Buku Sertifikat",
-      "link": "https://youtube.com"
+      "deskripsi": "Surat_Tugas_Pengabdian_didikw",
+      "link": "https://drive.google.com/file/d/1BDMu5sqTYMomErdEFKgciyspUqU7DlPJ/view?usp=sharing",
+      "id": 5
+    },
+    {
+      "deskripsi": "Surat_Tugas_Pengabdian_Didik_Warasto_Gasal_2021_ACC",
+      "link": "https://drive.google.com/file/d/1xO8X3WghOr3TsU6v2ThivM83S22T9Wru/view?usp=sharing",
+      "id": 6
+    },
+    {
+      "deskripsi": "surat_tugas_penelitian3_didikw",
+      "link": "https://drive.google.com/file/d/1FyCHbga3vdgvSpGMSveEslDbfUh_6Gex/view?usp=sharing",
+      "id": 7
+    },
+    {
+      "deskripsi": "Surat_Tugas_Penelitian2_Didik_Warasto",
+      "link": "https://drive.google.com/file/d/11PZBjDTBmG44fYx0kYJbsBrlzMMfVPoG/view?usp=sharing",
+      "id": 8
+    },
+    {
+      "deskripsi": "surat_tugas_penelitian1_didikw",
+      "link": "https://drive.google.com/file/d/1tkQRFwmzSn1d4VtkoaPuyOmkf7435mJL/view?usp=sharing",
+      "id": 9
+    },
+    {
+      "deskripsi": "Surat_Tugas_Penelitian_Didikw2021",
+      "link": "https://drive.google.com/file/d/1oo4tucBcYrxxAkgqMDiW4sxD5kSatulD/view?usp=sharing",
+      "id": 10
+    },
+    {
+      "deskripsi": "Surat_Tugas_Penelitian_DidikW_2023",
+      "link": "https://drive.google.com/file/d/19BTbUjek2_MOt9PIk8poadUDxDV5HPU5/view?usp=sharing",
+      "id": 11
+    },
+    {
+      "deskripsi": "Surat_Tugas_Penelitian_DidikW_2020",
+      "link": "https://drive.google.com/file/d/1R0j7Xu4XFIfbaDKDN5pGBXaPNO_ksMT9/view?usp=sharing",
+      "id": 12
+    },
+    {
+      "deskripsi": "Surat_Tugas_Penelitian_DidikW_2020_2",
+      "link": "https://drive.google.com/file/d/1wEiDFM6Japp2HFoTZeQg5LHFpHMrVw9W/view?usp=sharing",
+      "id": 13
+    },
+    {
+      "deskripsi": "Surat_Tugas_Jurnal_Gasal_2020_2021",
+      "link": "https://drive.google.com/file/d/1yTW50grtLoHSXwnIeOV1leVBRzV6A1AG/view?usp=sharing",
+      "id": 14
+    },
+    {
+      "deskripsi": "Surat_Tugas_Jurnal_Didik_Warasto",
+      "link": "https://drive.google.com/file/d/1zxmDf6HZdXX98wk_MG2Grg-JvwDim7Qt/view?usp=sharing",
+      "id": 15
+    },
+    {
+      "deskripsi": "St_Takmir_Gabung_bkd22_1_taufik",
+      "link": "https://drive.google.com/file/d/1gf9fbGz-trae-erHstlp9IShgOgxuqn7/view?usp=sharing",
+      "id": 16
+    },
+    {
+      "deskripsi": "ST_Takmir_bkd23_1_taufik",
+      "link": "https://drive.google.com/file/d/1jjT1xX_MD7aimSIW77tSHaOoKC9n4Tkr/view?usp=sharing",
+      "id": 17
+    },
+    {
+      "deskripsi": "ST_Takmir_bkd22_2_taufik",
+      "link": "https://drive.google.com/file/d/1xjKElZ_AcKubj58fxzDww-pXzPoT5co3/view?usp=sharing",
+      "id": 18
+    },
+    {
+      "deskripsi": "St_RT_Gabung_bkd22_1_taufik",
+      "link": "https://drive.google.com/file/d/1q6cEy5u_Bj3qYlfofVVHh4EsNWZgaWLa/view?usp=sharing",
+      "id": 19
+    },
+    {
+      "deskripsi": "ST_rt_bkd23_1_taufik",
+      "link": "https://drive.google.com/file/d/1HfyumXkywSpmpuN9qSYK27D9hlgadSYw/view?usp=sharing",
+      "id": 20
+    },
+    {
+      "deskripsi": "ST_rt_bkd22_2_taufik",
+      "link": "https://drive.google.com/file/d/1Mc0uZm8zEugf1L0_tKCO0fJpfZZTTDVj/view?usp=sharing",
+      "id": 21
+    },
+    {
+      "deskripsi": "ST_penel_bkd23_1_taufik",
+      "link": "https://drive.google.com/file/d/1s7NvSCteTOYuGVO4j5YhQhjg-fGyiicQ/view?usp=sharing",
+      "id": 22
+    },
+    {
+      "deskripsi": "SK_team jurnal_pengabdian_bkd21_2_taufik",
+      "link": "https://drive.google.com/file/d/1RAiGCMaLYE1qBbcI1uw3WPLWrUKUMzTH/view?usp=sharing",
+      "id": 23
+    },
+    {
+      "deskripsi": "SK_penelitianBkd21_1_taufik",
+      "link": "https://drive.google.com/file/d/18I0eYucDTkbkkZ0kL_ax56_YBgNRk66D/view?usp=sharing",
+      "id": 24
+    },
+    {
+      "deskripsi": "Proposal_Penelitian_Didikw2021",
+      "link": "https://drive.google.com/file/d/1O9xWpL3YFkXEMxz8R-J3Chhmm1-qEBvH/view?usp=sharing",
+      "id": 25
+    },
+    {
+      "deskripsi": "Proposal_Penelitian_DidikW_2023",
+      "link": "https://drive.google.com/file/d/1lqTnkDX6zIJ65hUlgT1zvePq3-IBBgUf/view?usp=sharing",
+      "id": 26
+    },
+    {
+      "deskripsi": "Proposal_Penelitian_DidikW_2020",
+      "link": "https://drive.google.com/file/d/1IJPj1fA0gT9Uorx9ksBiQlDVGfDxhRvq/view?usp=sharing",
+      "id": 27
+    },
+    {
+      "deskripsi": "Proposal_Penelitian_DidikW_2020_2",
+      "link": "https://drive.google.com/file/d/1nl51GFITzKh7eCgl7HxPq3sv6bg3uF2w/view?usp=sharing",
+      "id": 28
+    },
+    {
+      "deskripsi": "pengurusMajelisPKU_taufik",
+      "link": "https://drive.google.com/file/d/1TEzPnlBlRn2tfD6fjvPGzwkI050j18SG/view?usp=sharing",
+      "id": 29
+    },
+    {
+      "deskripsi": "Merge_Takmir_taufik",
+      "link": "https://drive.google.com/file/d/1g9d8q-oQxHQmQowhMgLunZmCgQI1M0-6/view?usp=sharing",
+      "id": 30
+    },
+    {
+      "deskripsi": "Merge_st_penelitian_taufik",
+      "link": "https://drive.google.com/file/d/11d9M0on7FR3kuu3Pifr9_9ga80bTeDFh/view?usp=sharing",
+      "id": 31
+    },
+    {
+      "deskripsi": "Merge_RT_taufik",
+      "link": "https://drive.google.com/file/d/1bBM3HgkdFTcy3eaWRX6mq7Ulx8-vuJy_/view?usp=sharing",
+      "id": 32
+    },
+    {
+      "deskripsi": "Laporan_Penelitian_Didikw2021",
+      "link": "https://drive.google.com/file/d/1xJWJgVDkPOZCa0b-KU_SGnx1HHMF96dm/view?usp=sharing",
+      "id": 33
+    },
+    {
+      "deskripsi": "Laporan_Penelitian_DidikW_2023",
+      "link": "https://drive.google.com/file/d/1cghoScENcmfB0zj6Ewjctuf6obO_5U-O/view?usp=sharing",
+      "id": 34
+    },
+    {
+      "deskripsi": "Laporan_Penelitian_DidikW_2020",
+      "link": "https://drive.google.com/file/d/1-g0g-LjgzJmf2gCX_oECseyJN117FmZo/view?usp=sharing",
+      "id": 35
+    },
+    {
+      "deskripsi": "Laporan_Penelitian_DidikW_2020_2",
+      "link": "https://drive.google.com/file/d/1W1cxySKniZE_FzigL0Jhc5prq6yYpRuI/view?usp=sharing",
+      "id": 36
+    },
+    {
+      "deskripsi": "Laporan_Penelitian 2020_1_taufik",
+      "link": "https://drive.google.com/file/d/1kMmJ40qA92P8JZOHC0C0L40VJ_p9A1xj/view?usp=sharing",
+      "id": 37
+    },
+    {
+      "deskripsi": "Laporan_LengkapTaufik Nurhidayat ",
+      "link": "https://drive.google.com/file/d/16Q_Z33-fEDYC_0sTrBgQPJw0H6y_u6fC/view?usp=sharing",
+      "id": 38
+    },
+    {
+      "deskripsi": "LAPORAN_BKD_2223_1_PeneltianDosen_Taufik",
+      "link": "https://drive.google.com/file/d/1PD7e898ck7RjNU3qDHa3Ks6LvQvIUGO6/view?usp=sharing",
+      "id": 39
+    },
+    {
+      "deskripsi": "Gabung_Takmir_bkd21_2_taufik",
+      "link": "https://drive.google.com/file/d/1DbSuqYevZKh8aa1zA8UL0ph6QMmIwIti/view?usp=sharing",
+      "id": 40
+    },
+    {
+      "deskripsi": "Gabung_RT_bkd21_2_taufik",
+      "link": "https://drive.google.com/file/d/1q-TvVqX5_3mTuuWtYYa4iXONUlZx4y95/view?usp=sharing",
+      "id": 41
     }
   ],
+  "pengabdian": [],
+  "sertifikat": [],
   "kurikulums": [
-    {
-      "id": 1814011001,
-      "matkul": "Agama Islam",
-      "sks": 2,
-      "tp": true,
-      "semester": 1
-    },
-    {
-      "id": 1814011002,
-      "matkul": "Agama Kristen",
-      "sks": 2,
-      "tp": false,
-      "semester": 1
-    },
-    {
-      "id": 1814011003,
-      "matkul": "Agama Katholik",
-      "sks": 2,
-      "tp": false,
-      "semester": 1
-    },
     {
       "id": 1814011004,
       "matkul": "Agama Budha",
@@ -391,221 +1082,488 @@
       "sks": 2,
       "tp": true,
       "semester": 5
-    },
-    {
-      "id": 1814051050,
-      "matkul": "Rekayasa Perangkat Lunak",
-      "sks": 2,
-      "tp": true,
-      "semester": 5
-    },
-    {
-      "id": 1814051055,
-      "matkul": "Sistem Pengambilan Keputusan",
-      "sks": 2,
-      "tp": true,
-      "semester": 5
-    },
-    {
-      "id": 1814051057,
-      "matkul": "Kewirausahaan",
-      "sks": 2,
-      "tp": true,
-      "semester": 5
-    },
-    {
-      "id": 1814052054,
-      "matkul": "Praktek Jaringan Komputer 2",
-      "sks": 2,
-      "tp": false,
-      "semester": 5
-    },
-    {
-      "id": 1814052055,
-      "matkul": "Game Technology",
-      "sks": 2,
-      "tp": false,
-      "semester": 5
-    },
-    {
-      "id": 1814052056,
-      "matkul": "Bahasa Inggris 5",
-      "sks": 1,
-      "tp": false,
-      "semester": 5
-    },
-    {
-      "id": 1814052057,
-      "matkul": "Trouble Shooting",
-      "sks": 1,
-      "tp": false,
-      "semester": 5
-    },
-    {
-      "id": 1814052058,
-      "matkul": "E-Business",
-      "sks": 2,
-      "tp": false,
-      "semester": 5
-    },
-    {
-      "id": 1814052059,
-      "matkul": "Web Technology",
-      "sks": 2,
-      "tp": false,
-      "semester": 5
-    },
-    {
-      "id": 1814052060,
-      "matkul": "Pemrograman Database 2",
-      "sks": 2,
-      "tp": false,
-      "semester": 5
-    },
-    {
-      "id": 1814062061,
-      "matkul": "Kunjungan Industri",
-      "sks": 1,
-      "tp": false,
-      "semester": 6
-    },
-    {
-      "id": 1814062062,
-      "matkul": "Praktek Kerja Lapangan",
-      "sks": 2,
-      "tp": false,
-      "semester": 6
-    },
-    {
-      "id": 1814062063,
-      "matkul": "Tugas Akhir",
-      "sks": 4,
-      "tp": false,
-      "semester": 6
     }
   ],
   "karya_mahasiswa": [
     {
-      "nama": "Jovan",
-      "judul": "Testing",
-      "tahun": "2022",
-      "doc": "https://asdasd",
-      "video": "https://saadasda",
+      "nama": "Lingga Graha",
+      "judul": "Sistem Pelaynan Masyarakat Pasar Kliwon",
+      "tahun": "2023",
+      "doc": "https://-",
+      "video": "https://youtu.be/JTm6rybBReM?si=2qDIG_jBxP5ghade",
       "id": 1
+    },
+    {
+      "nama": "Setiya Yuli",
+      "judul": "Sistem Antrian di PKU Muhammadiya",
+      "tahun": "2022",
+      "doc": "https://-",
+      "video": "https://www.youtube.com/watch?v=HLBC-GJblUM&t=1s",
+      "id": 2
+    },
+    {
+      "nama": "Anonim",
+      "judul": "Website kelurahann",
+      "tahun": "2022",
+      "doc": "https://-",
+      "video": "https://www.youtube.com/watch?v=_nUeF_BGQLU",
+      "id": 3
     }
   ],
   "dataAkreditasi": [
     {
-      "judul": "Pedoman Kurikulum ",
-      "dataBody": [
+      "id": 1,
+      "chapter": "Bab 1",
+      "titleBab": "BAB 1 Elemen Akreditasi",
+      "dataBab": [
         {
-          "deskripsi": "mengatur review, pelaksanaan dsb",
-          "link": "bebasdulu"
-        }
-      ],
-      "id": 3
-    },
-    {
-      "judul": "asdasdasdasd",
-      "dataBody": [
-        {
-          "deskripsi": "sadasdas",
-          "link": "asdasdad"
+          "title": "A. Kondisi Eksternal",
+          "dataBody": []
         },
         {
-          "deskripsi": "asdasda",
-          "link": "fsdfgrsef"
+          "title": "B. Profit Unit Pengelola Program Studi",
+          "dataBody": []
+        },
+        {
+          "title": "C. Kriteria",
+          "dataBody": [
+            {
+              "id": 7819,
+              "deskripsi": "C1. Visi, Misi, Tujuan, dan Strategi",
+              "link": "https://drive.google.com/drive/folders/1O-oKJ32XlftcctZYBdDnRuFvAVONfBd8?usp=sharing"
+            },
+            {
+              "id": 8054,
+              "deskripsi": "C2. Tata Pamog, Tata Kelola, dan Kerjasama",
+              "link": "https://drive.google.com/drive/folders/1jp5RSAw7N71atTDK3czZFWYrwWGeuisP?usp=sharing"
+            },
+            {
+              "id": 5350,
+              "deskripsi": "C3. Mahasiswa",
+              "link": "https://drive.google.com/drive/folders/1RGKbwE7AHJzsTVCiWNiToyX-YqvvpfZO?usp=sharing"
+            },
+            {
+              "id": 7740,
+              "deskripsi": "C4. Sumber Daya Manusia",
+              "link": "https://drive.google.com/drive/folders/1qA_HDFVW0A1z3K5XfFElgovdbqcKZth4?usp=sharing"
+            },
+            {
+              "id": 3388,
+              "deskripsi": "C5. Keuangan, Sarana, dan Prasarana",
+              "link": "https://drive.google.com/drive/folders/18EOWaiLKHjXS8u8A4W9ARJ2Oh1GAlylo?usp=sharing"
+            },
+            {
+              "id": 4140,
+              "deskripsi": "C6. Pendidikan",
+              "link": "https://drive.google.com/drive/folders/1hR0oYgTPiiQ2lYZXr-PGHNjdb-xUD0-v?usp=sharing"
+            },
+            {
+              "id": 10307,
+              "deskripsi": "C7. Penelitian",
+              "link": "https://drive.google.com/drive/folders/1oDIJAVXbDeOcfL5Ru7aH2JTAjS-Y092V?usp=sharing"
+            },
+            {
+              "id": 3603,
+              "deskripsi": "C8. Pengabdian Kepada Masyarakat",
+              "link": "https://drive.google.com/drive/folders/1DIOcmbooMJ3JRvB65vXzovyEL99KGj90?usp=sharing"
+            },
+            {
+              "id": 496,
+              "deskripsi": "C9. Luaran dan Capaian Tridama",
+              "link": "https://drive.google.com/drive/folders/1na0nfPXWB505SjnVay7I6FOU9OhZvMQK?usp=sharing"
+            }
+          ]
+        },
+        {
+          "title": "D. Suplemen",
+          "dataBody": [
+            {
+              "id": 9897,
+              "deskripsi": "D1. Suplemen Akreditasi Program Studi Diploma Sistem Informasi",
+              "link": "https://scsdc"
+            },
+            {
+              "id": 1074,
+              "deskripsi": "D2. Suplemen Program Studi Diploma Teknologi Informasi",
+              "link": "https://sdadsf"
+            },
+            {
+              "id": 4045,
+              "deskripsi": "D3. Suplemen Program Studi Diploma Ilmu Komputer/Informatika/Teknik Informatika",
+              "link": "https://dcscs"
+            },
+            {
+              "id": 555,
+              "deskripsi": "D4. Suplemen Progeam Studi Doploma Sistem Komputer",
+              "link": "https://djms"
+            },
+            {
+              "id": 2344,
+              "deskripsi": "D5.  Suplemen Program Studi Diploma Rekayasa Perangkat Lunak",
+              "link": "https://kjndfnvdfv"
+            }
+          ]
+        },
+        {
+          "title": "E. Analisis dan Penetapan Program Pengembangan Unit Pengelola",
+          "dataBody": []
         }
-      ],
-      "id": 4
+      ]
+    },
+    {
+      "id": 2,
+      "chapter": "Bab 2",
+      "titleBab": "Bab 2 Penelitian Akreditasi",
+      "dataBody": [
+        {
+          "id": 1138,
+          "deskripsi": "bjbhb",
+          "link": "https://h jhb"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "chapter": "Bab 3",
+      "titleBab": "Bab 3 Format Penilaian",
+      "dataBody": [
+        {
+          "id": 5013,
+          "deskripsi": "kgblkfbgf",
+          "link": "https:// fdlvfdv"
+        }
+      ]
     }
   ],
   "formulir": [
     {
-      "id": 1,
-      "deskripsi": "Formulir",
-      "link": "https://youtube.com"
+      "deskripsi": "BOOK-4 FORMULIR SPMI PPM 2021",
+      "link": "https://drive.google.com/file/d/1db5OMoAEPdDc1-9JuBGwhNKN8jsMiY0s/view?usp=sharing",
+      "id": 2
     }
   ],
-  "sop": [
-    {
-      "id": 1,
-      "deskripsi": "SOP",
-      "link": "https://youtube.com"
-    }
-  ],
-  "pedoman": [],
-  "renstra": [
-    {
-      "id": 1,
-      "deskripsi": "Renstra",
-      "link": "https://youtube.com"
-    }
-  ],
-  "rip": [
-    {
-      "id": 1,
-      "deskripsi": "RIP",
-      "link": "https://youtube.com"
-    }
-  ],
+  "standart": [],
+  "manual": [],
+  "kebijakan": [],
   "penelitian_lppm": [
     {
-      "deskripsi": "scassdc",
-      "link": "https://sdcsdcs",
+      "deskripsi": "Laporan_Penelitian_Didik Warasto_2021_1",
+      "link": "https://drive.google.com/file/d/1MCYj3WXjIskCt1UQ4cuQPGZdSmnc_85q/view?usp=sharing",
       "id": 1
     },
     {
-      "deskripsi": "scscsdcsc",
-      "link": "https://sdcscsdcdscsdc",
+      "deskripsi": "Laporan_Penelitian_Didik Warasto_2021_2",
+      "link": "https://drive.google.com/file/d/1wFCPRB2dsVLzIyvuiOdkth_CQXhaVQt9/view?usp=sharing",
       "id": 2
     },
     {
-      "deskripsi": "tama",
-      "link": "https://dfsdfsdfs",
+      "deskripsi": "Laporan_Penelitian Evoting_Taman Ginting_2022",
+      "link": "https://drive.google.com/file/d/1_hVkfhyR-CnOAD25YO1FjMZLys9QLGrd/view?usp=sharing",
       "id": 3
+    },
+    {
+      "deskripsi": "Laporan_Penelitian Bloetouch Low Eenergi (BLE)_Taman Ginting_2021",
+      "link": "https://drive.google.com/file/d/1_DhTSOjXs2dQd9gOX75hxa6jmBDD9TOp/view?usp=sharing",
+      "id": 4
+    },
+    {
+      "deskripsi": "Laporan_Penelitian PLC_Taufik Nurhidayat_2022",
+      "link": "https://drive.google.com/file/d/12nfc1REXU34odH1h_hjIkUX00hqx9czj/view?usp=sharing",
+      "id": 5
     }
   ],
   "pengabdian_lppm": [
     {
-      "id": 1,
-      "deskripsi": "Pengabdian",
-      "link": "https://youtube.com"
+      "deskripsi": "Laporan_Pengabdian_Didik_Warasto_2022",
+      "link": "https://drive.google.com/file/d/1Jyod7IFXG8VswAVsU3Dchnddd2AKki1z/view?usp=sharing",
+      "id": 1
+    },
+    {
+      "deskripsi": "Laporan_Pengabdian_Didik_Warasto_2023_1",
+      "link": "https://drive.google.com/file/d/1LFh9kViCtZYkVT35byUt24PjkOzzMA_u/view?usp=sharing",
+      "id": 2
+    },
+    {
+      "deskripsi": "Laporan_Pengabdian_Didik_Warasto_2023_2",
+      "link": "https://drive.google.com/file/d/1bM62Znmijt4sB_rN7Y-95WVE1GUqGX0e/view?usp=sharing",
+      "id": 3
+    },
+    {
+      "deskripsi": "Laporan_Pengabdian_Taman_Ginting_2020",
+      "link": "https://drive.google.com/file/d/18r9USb32pFRGy50lIC3VnoTdKuCAyxEf/view?usp=sharing",
+      "id": 4
+    },
+    {
+      "deskripsi": "Laporan_Pengabdian_Taman_Ginting_2021",
+      "link": "https://drive.google.com/file/d/1mxZqrEEG9kKUGK1noVXtirO9HOHzjNa-/view?usp=sharing",
+      "id": 5
+    },
+    {
+      "deskripsi": "Laporan_Pengabdian_Taman_Ginting_2022",
+      "link": "https://drive.google.com/file/d/1KLc85z-yQX1Qp65PjZRVqlob-WTZH_CK/view?usp=sharing",
+      "id": 6
     }
   ],
   "jurnal_lppm": [
     {
-      "id": 1,
-      "deskripsi": "Jurnal",
-      "link": "https://youtube.com"
+      "deskripsi": "po-202109-202-03-taman-ginting",
+      "link": "https://drive.google.com/file/d/1xsMcp7NP7Et5CFYJ8dFohX2IDe0eUPVB/view?usp=sharing",
+      "id": 2
+    },
+    {
+      "deskripsi": "po-202006-19k-02-taman",
+      "link": "https://drive.google.com/file/d/1uxdHHuOp5rgiZx4iu3UnAII04jlqgUlh/view?usp=sharing",
+      "id": 3
+    },
+    {
+      "deskripsi": "po-201903-181-03-GINTING",
+      "link": "https://drive.google.com/file/d/1Hdhf3RaGI-QbrMMsfwFOBC4_KHa5H_Yk/view?usp=sharing",
+      "id": 4
+    },
+    {
+      "deskripsi": "5.-ginting-hal.-22-28",
+      "link": "https://drive.google.com/file/d/1XNRC_cdpfMTBo2zeMJT9Q-61HFgRva1h/view?usp=sharing",
+      "id": 5
     }
   ],
   "haki_lppm": [
     {
-      "id": 1,
-      "deskripsi": "HAKI",
-      "link": "https://youtube.com"
+      "deskripsi": "sertifikat_EC00202367967-1",
+      "link": "https://drive.google.com/file/d/1A7uNIZpUpjxVhhInTtqap3QW_Tf5v8aW/view?usp=sharing",
+      "id": 2
+    },
+    {
+      "deskripsi": "sertifikat_EC00202367855-1",
+      "link": "https://drive.google.com/file/d/18Az3hsSAdw0B87YDBlmT31nPhAVpbZnS/view?usp=sharing",
+      "id": 3
+    },
+    {
+      "deskripsi": "sertifikat_EC00202367781-2",
+      "link": "https://drive.google.com/file/d/1A5jnNu6I3plzDucuBLidQbIeMjpzx_b6/view?usp=sharing",
+      "id": 4
+    },
+    {
+      "deskripsi": "sertifikat_EC00202367310-1",
+      "link": "https://drive.google.com/file/d/1hKFXAcnenb7gvZlliy3KPzMre0yM4EuC/view?usp=sharing",
+      "id": 5
+    },
+    {
+      "deskripsi": "sertifikat_EC00202366778",
+      "link": "https://drive.google.com/file/d/1sSQ1dFOODbXDn9GMmse9XaXhLEmZ_h_a/view?usp=sharing",
+      "id": 6
+    },
+    {
+      "deskripsi": "sertifikat_EC00202320008 haki",
+      "link": "https://drive.google.com/file/d/1OAFFDW5HHVFKdE5PgZP6qaBK7HiK4pDx/view?usp=sharing",
+      "id": 7
     }
   ],
-  "roadmap_lppm": [
+  "roadmap_lppm": [],
+  "pedoman_lppm": [],
+  "renstra_lppm": [],
+  "a": [],
+  "b": [],
+  "c1-penetapan": [
     {
-      "id": 1,
-      "deskripsi": "Road Map",
-      "link": "https://youtube.com"
+      "deskripsi": "Statuta",
+      "link": "https://drive.google.com/file/d/1hg0K_mSemBGE9pvKjdlgBSKlzilMIBq2/view?usp=sharing",
+      "tipe": "File",
+      "id": 1
+    },
+    {
+      "deskripsi": "Renstra 2021-2025",
+      "link": "https://drive.google.com/file/d/1_NrENRGI1CUQliOeQtUe2peA6YuKv3J6/view?usp=sharing",
+      "tipe": "File",
+      "id": 2
+    },
+    {
+      "deskripsi": "Pedoman Akademik ",
+      "link": "https://drive.google.com/file/d/17j0mKYP7zAFOPqWvAUCVdS8eGDMdq1D3/view?usp=sharing",
+      "tipe": "File",
+      "id": 3
     }
   ],
-  "pedoman_lppm": [
+  "c1-pelaksanaan": [],
+  "c1-evaluasi": [],
+  "c1-pengendalian": [],
+  "c1-peningkatan": [],
+  "c2-penetapan": [],
+  "c2-pelaksanaan": [],
+  "c2-evaluasi": [],
+  "c2-pengendalian": [],
+  "c2-peningkatan": [],
+  "c3-penetapan": [],
+  "c3-pelaksanaan": [],
+  "c3-evaluasi": [],
+  "c3-pengendalian": [],
+  "c3-peningkatan": [],
+  "c4-penetapan": [],
+  "c4-pelaksanaan": [],
+  "c4-evaluasi": [],
+  "c4-pengendalian": [],
+  "c4-peningkatan": [],
+  "c5-penetapan": [],
+  "c5-pelaksanaan": [],
+  "c5-evaluasi": [],
+  "c5-pengendalian": [],
+  "c5-peningkatan": [],
+  "c6-penetapan": [],
+  "c6-pelaksanaan": [],
+  "c6-evaluasi": [],
+  "c6-pengendalian": [],
+  "c6-peningkatan": [],
+  "c7-penetapan": [
     {
-      "id": 1,
-      "deskripsi": "Pedoman",
-      "link": "https://youtube.com"
+      "deskripsi": "SK PENDIRIAN LPPM",
+      "link": "https://drive.google.com/file/d/18_0Pv-UdcIipzrvcxh78faCjXQUAM8yg/view?usp=drive_link",
+      "tipe": "File",
+      "id": 1
+    },
+    {
+      "deskripsi": "RIP POLITAMA",
+      "link": "https://drive.google.com/file/d/1VLDOlwmreWxtg6qhcJvCt1zYuYa_-2y8/view?usp=sharing",
+      "tipe": "File",
+      "id": 2
+    },
+    {
+      "deskripsi": "RENSTRA PENELITIAN PKM POLITAMA",
+      "link": "https://drive.google.com/file/d/1C304iiGg7lQljiFzycPMpvr7K1RW08pq/view?usp=drive_link",
+      "tipe": "File",
+      "id": 3
+    },
+    {
+      "deskripsi": "STANDAR SPMI TERKAIT  PENELITIAN",
+      "link": "https://drive.google.com/file/d/1D2TPuyrWRaDFSlw0cz-6IqVGp1KiUki3/view?usp=drive_link",
+      "tipe": "File",
+      "id": 4
+    },
+    {
+      "deskripsi": "FORMULIR SPMI",
+      "link": "https://drive.google.com/file/d/1jmLi_3AGG1ZsMDExCSimyKJOqTvELoPg/view?usp=drive_link",
+      "tipe": "File",
+      "id": 5
+    },
+    {
+      "deskripsi": "PETA JALAN PENELITIAN",
+      "link": "https://drive.google.com/file/d/1Kes0kvphUQ0dfo_nYkq3jIBjSNZXyBpT/view?usp=drive_link",
+      "tipe": "File",
+      "id": 6
+    },
+    {
+      "deskripsi": "STATUTA POLITAMA ",
+      "link": "https://drive.google.com/file/d/1XHkMJMcWyb__XL9vwimChLH59rRjTnuw/view?usp=sharing",
+      "tipe": "File",
+      "id": 7
     }
   ],
-  "renstra_lppm": [
+  "c7-pelaksanaan": [
     {
-      "id": 1,
-      "deskripsi": "Renstra",
-      "link": "https://youtube.com"
+      "deskripsi": "SOP PENELITIAN",
+      "link": "https://drive.google.com/file/d/1bHXo5GrcTmKgUgb8oJtAUg-_6E7vTYFu/view?usp=drive_link",
+      "tipe": "File",
+      "id": 1
+    },
+    {
+      "deskripsi": "STANDAR SPMI TERKAIT  PENELITIAN",
+      "link": "https://drive.google.com/file/d/1jmLi_3AGG1ZsMDExCSimyKJOqTvELoPg/view?usp=drive_link",
+      "tipe": "File",
+      "id": 2
+    },
+    {
+      "deskripsi": "PANDUAN PENELITIAN",
+      "link": "https://drive.google.com/file/d/17Q9vhJvgn3sooHvVO4L5S4IrxXEpck5K/view?usp=drive_link",
+      "tipe": "File",
+      "id": 3
+    },
+    {
+      "deskripsi": "PANDUAN PENELITIAN DOSEN MAHASISWA",
+      "link": "https://drive.google.com/file/d/1Clv7p4AJMU9t5AwfwEy5i067nYo43zKN/view?usp=drive_link",
+      "tipe": "File",
+      "id": 4
+    },
+    {
+      "deskripsi": "PETA JALAN PENELITIAN",
+      "link": "https://drive.google.com/file/d/1Kes0kvphUQ0dfo_nYkq3jIBjSNZXyBpT/view?usp=drive_link",
+      "tipe": "File",
+      "id": 5
+    },
+    {
+      "deskripsi": "RENSTRA PENELITIAN   POLITAMA",
+      "link": "https://drive.google.com/file/d/1C304iiGg7lQljiFzycPMpvr7K1RW08pq/view?usp=drive_link",
+      "tipe": "File",
+      "id": 6
+    },
+    {
+      "deskripsi": "LIST PUBLIKASI DOSEN",
+      "link": "https://drive.google.com/file/d/1vGIConTZam1y3_EkFlXkrsEzjfpWkKMx/view?usp=drive_link",
+      "tipe": "File",
+      "id": 7
+    }
+  ],
+  "c7-evaluasi": [],
+  "c7-pengendalian": [],
+  "c7-peningkatan": [],
+  "c8-penetapan": [
+    {
+      "deskripsi": "SK PENETAPAN LPPM",
+      "link": "https://drive.google.com/file/d/18_0Pv-UdcIipzrvcxh78faCjXQUAM8yg/view?usp=drive_link",
+      "tipe": "File",
+      "id": 1
+    },
+    {
+      "deskripsi": "RIP POLITAMA",
+      "link": "https://drive.google.com/file/d/1VLDOlwmreWxtg6qhcJvCt1zYuYa_-2y8/view?usp=sharing",
+      "tipe": "File",
+      "id": 2
+    },
+    {
+      "deskripsi": "RENSTRA PENELITIAN PKM POLITAMA",
+      "link": "https://drive.google.com/file/d/1C304iiGg7lQljiFzycPMpvr7K1RW08pq/view?usp=drive_link",
+      "tipe": "File",
+      "id": 3
+    },
+    {
+      "deskripsi": "STANDAR SPMI TERKAIT  PKM",
+      "link": "https://drive.google.com/file/d/1jmLi_3AGG1ZsMDExCSimyKJOqTvELoPg/view?usp=drive_link",
+      "tipe": "File",
+      "id": 4
+    },
+    {
+      "deskripsi": "FORMULIR SPMI",
+      "link": "https://drive.google.com/file/d/1D2TPuyrWRaDFSlw0cz-6IqVGp1KiUki3/view?usp=drive_link",
+      "tipe": "File",
+      "id": 5
+    }
+  ],
+  "c8-pelaksanaan": [],
+  "c8-evaluasi": [],
+  "c8-pengendalian": [],
+  "c8-peningkatan": [],
+  "c9-penetapan": [],
+  "c9-pelaksanaan": [],
+  "c9-evaluasi": [],
+  "c9-pengendalian": [],
+  "c9-peningkatan": [],
+  "d1": [
+    {
+      "deskripsi": "LAPORAN SUPLEMEN",
+      "link": "https://drive.google.com/file/d/12nfc1REXU34odH1h_hjIkUX00hqx9czj/view?usp=drive_link",
+      "tipe": "File",
+      "id": 1
+    }
+  ],
+  "d2": [],
+  "d3": [],
+  "d4": [],
+  "d5": [],
+  "e": [],
+  "bab2": [],
+  "bab3": [
+    {
+      "deskripsi": "b",
+      "link": "http://http://sdcsdc",
+      "tipe": "Folder",
+      "id": 1
     }
   ]
 }
