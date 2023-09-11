@@ -1,6 +1,6 @@
 import jsonServer from "json-server";
 import cors from "cors";
-import datas from "./datas.json"
+import datas from "./datas.json" assert { type: "json" };
 
 const server = jsonServer.create();
 const router = jsonServer.router(datas);
@@ -20,5 +20,6 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port, () => {
+  console.log(datas);
   console.log(`JSON Server is running on port ${port}`);
 });
