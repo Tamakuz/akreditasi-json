@@ -1,8 +1,9 @@
 import jsonServer from "json-server";
 import cors from "cors";
+import datas from "./datas.json"
 
 const server = jsonServer.create();
-const router = jsonServer.router("datas.json");
+const router = jsonServer.router(datas);
 const middlewares = jsonServer.defaults();
 const port = 5000;
 
